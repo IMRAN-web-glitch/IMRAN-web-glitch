@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning java script
 - 📫 How to reach me gmail (imranlaptop555@gmail.com)
 - ⚡ Fun fact: doing a bachelor degree from delhi university (hansraj college)
+- pursue a career in full stack developer
+   
 
 <!---
 IMRAN-web-glitch/IMRAN-web-glitch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
