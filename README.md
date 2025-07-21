@@ -24,4 +24,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imran-web-glitch&show_icons=true&locale=en" alt="imran-web-glitch" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imran-web-glitch&" alt="imran-web-glitch" /></p>
+<p><img align="center" src="https://github.com/IMRAN-web-glitch" alt="imran-web-glitch" /></p>
