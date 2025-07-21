@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md imran</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
+<img alt="coding" width="100" align="right" src="https://www.bing.com/ck/a?!&&p=6a331e7f8ddf099ab0dcad3e079f3ad7c535ba70ded6985d493e56d93d7c29b1JmltdHM9MTc1MzA1NjAwMA&ptn=3&ver=2&hsh=4&fclid=3c8cad36-3277-60b9-2a01-be2233716186&u=a1L2ltYWdlcy9zZWFyY2g_cT1jb2RpbmcrYW5pbWF0ZWQrZ2lmJmlkPTFBRjVCNDYyN0U4M0E2RDE5MDNDRkVDMjVGQ0I1NUVFOENBQzdEMDQmRk9STT1JQUNGSVI&ntb=1"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imran-web-glitch&label=Profile%20views&color=0e75b6&style=flat" alt="imran-web-glitch" /> </p>
 
